@@ -1,0 +1,85 @@
+body {
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid black;
+}
+.page {
+    border: 2px solid green;;
+}
+.page-header {
+    border: 2px solid lightgray;
+}
+.page-content {
+    border: 2px solid red;
+}
+.page-footer {
+    border: 2px solid lightblue;
+}
+.footer-navigation {
+    border: 2px solid lightpink;
+}
+.article-hero-frame {
+    border: 2px solid yellow;
+}
+.hero-section {
+    border: 2px solid orange;
+}
+.hero-header {
+    border: 2px solid green;
+}
+.hero-content {
+    border: 2px solid green;
+}
+.hero-footer {
+    border: 2px solid green;
+}
+.article-cv-frame {
+    border: 2px solid yellow;
+}
+.cv-section {
+    border: 2px solid orange;
+}
+.cv-header {
+    border: 2px solid green;
+}
+.cv-content {
+    border: 2px solid green;
+}
+.cv-footer {
+    border: 2px solid green;
+}
+.article-portfolio-frame {
+    border: 2px solid yellow;
+}
+.portfolio-section {
+    border: 2px solid orange;
+}
+.portfolio-header {
+    border: 2px solid green;
+}
+.portfolio-content {
+    border: 2px solid green;
+}
+.portfolio-footer {
+    border: 2px solid green;
+}
+.to-do-list {
+    display: flex;
+    justify-content: center;
+    border-radius: 100%;
+    padding: 4px;
+    background-color: red;
+    border: 2pc solid black;
+}
+.font-size-xs {
+    font-size: 0.75rem;
+}
+.font-size-base{
+    font-size: 1rem;
+}
+.font-size-md {
+    font-size: 1.25rem;
+}
+.font-size-lg {
+    font-size: 1.5rem;
+}
