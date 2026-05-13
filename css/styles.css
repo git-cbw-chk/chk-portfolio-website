@@ -12,7 +12,7 @@ body {
     justify-content: space-around;
     align-items: center;
     height: 10vh;
-    background-image: url(/assets/images/film-strip.png);
+    background-image: url(../assets/images/film-strip.png);
     background-size: contain;
     border: 2px solid lightgray;
 }
@@ -32,7 +32,7 @@ body {
     justify-content: space-around;
     align-items: center;
     height: 10vh;
-    background-image: url(/assets/images/film-strip.png);
+    background-image: url(../assets/images/film-strip.png);
     background-size: contain;
     border: 2px solid lightpink;
 }
